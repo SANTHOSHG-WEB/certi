@@ -1,2 +1,2 @@
-# certi
-Certificate verification system
+# Certificate-System
+Automatically generated.
